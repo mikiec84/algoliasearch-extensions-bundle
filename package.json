@@ -29,7 +29,7 @@
     "file-loader": "^0.10.1",
     "hogan.js": "^3.0.2",
     "instantsearch.js": "^1.11.2",
-    "jquery": "^1.11.3",
+    "jquery": "^3.5.0",
     "jquery-ui": "1.10.5",
     "json": "^9.0.4",
     "pretty-bytes": "^2.0.1",

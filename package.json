@@ -31,7 +31,7 @@
     "instantsearch.js": "^1.11.2",
     "jquery": "^1.11.3",
     "jquery-ui": "1.10.5",
-    "json": "^9.0.4",
+    "json": "^10.0.0",
     "pretty-bytes": "^2.0.1",
     "uglifyjs": "2.4.10",
     "url-loader": "^0.5.8",
